@@ -1,0 +1,68 @@
+.navigation {
+    background-color: red;
+    display: flex;
+    flex-direction: column;
+}
+.navLinkActive{
+    margin: 0 25% 0 25%;
+    color: white;
+    font-size: larger;
+}
+.home1{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 35px;
+  }
+.home1 img{
+    width: 50vw;
+    height:50vh;
+    margin: 35px;
+}
+.navIcon{
+    width: 35px;
+    height:35px;
+}
+
+.not-found{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 35px;
+  }
+  .img-not-found{
+    width: 50vw;
+    height:50vh;
+  }
+  .elegidos{
+    color: black;
+  }
+
+  .pokemons{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 35px;
+  }
+  .cardTitle{
+    font-size: 2rem;
+    font-weight:600;
+    margin-bottom: 15px;
+  }
+  .remarkName{
+    font-weight:600;
+  }
+  .remarkValue{
+    color: red;
+    margin-bottom: 5px;
+  }
+  .container{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 35px;
+  }
